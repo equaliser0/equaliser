@@ -1,8 +1,10 @@
 <template>
-  <section id="cover" class="bg-gray-900 w-screen h-screen">
-    <img
-      class="absolute bottom-0 left-0 m-32"
-      src="@/assets/imgs/equaliser-Logo-final_300.png">
+  <section id="cover" class="">
+    <div class="container mx-auto p-6 h-screen">
+      <img
+        class="absolute bottom-0 left-0 m-32"
+        src="@/assets/imgs/Logo.png">
+    </div>
   </section>
 </template>
 
@@ -14,7 +16,7 @@ export default {
 
 <style>
 #cover {
-  background: url('../../assets/imgs/equalsBackground.jpg') no-repeat center center fixed;
+  background: url('../../assets/imgs/Cover.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

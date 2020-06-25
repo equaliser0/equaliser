@@ -4,7 +4,9 @@
 
 ***Decentralized Autonomous Organizations*** *(DAO)* is the keyword of the future. I believe tomorrows platforms will be managed by communities, wherein users and their collectives will earn a living.
 
-I am working on a technology, which allows users to deploy and host their own platform as an organization which works as an ecosystem itself and can be linked to others.
+I am working on a technology, which **rewards user contributions**. 
+
+MyVision is a Toolsest which allows users to deploy and host their own platform as an organization which works as an ecosystem itself and can be linked to others.
 
 My keywords I am working with are
 

@@ -1,6 +1,6 @@
 # About Me
 
-> Developer | Economist | Musician | Trader
+> Developer | Inventor | Trader | Musician
 
 ***Decentralized Autonomous Organizations*** *(DAO)* is the keyword of the future. I believe tomorrows platforms will be managed by communities, wherein users and their collectives will earn a living.
 

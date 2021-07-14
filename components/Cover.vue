@@ -1,7 +1,7 @@
 <template>
-  <div class="h-64 bg-gray-800">
-
-  </div>
+  <cover class="w-full bg-gray-800">
+    <img src="~/assets/imgs/chris5000.jpg" class="w-full">
+  </cover>
 </template>
 
 <script>

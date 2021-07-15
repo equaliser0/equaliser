@@ -5,17 +5,17 @@
       <div class="flex flex-wrap justify-around py-2 my-2">
         <a href="https://explorer.ark.io/wallets/AKfFjxT6aU3NMZNW9rwJSgkQ4LdAvTMHFF" target="_blank" class="flex flex-col md:flex-wrap items-center p-2 hover:bg-gray-800 rounded">
           <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1586.png" class="w-12 p-2" alt="ARK">
-          <p>AKfFjxT6aU3NMZNW9rwJSgkQ4LdAvTMHFF</p>
+          <p class="hidden md:block">AKfFjxT6aU3NMZNW9rwJSgkQ4LdAvTMHFF</p>
         </a>
 
         <a href="https://etherscan.io/address/0x0C0B4f48ec6fDc639Dd7654511B127611D580B56" target="_blank" class="flex flex-col md:flex-wrap items-center p-2 hover:bg-gray-800 rounded">
           <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" class="w-12 p-2" alt="ETH">
-          <p>0x0C0B4f48ec6fDc639Dd7654511B127611D580B56</p>
+          <p class="hidden md:block">0x0C0B4f48ec6fDc639Dd7654511B127611D580B56</p>
         </a>
 
         <a href="https://www.blockchain.com/btc/address/bc1qxhn8vcry7yq0q9gmt2cygnsxaav6xu3g9cm9hq" target="_blank" class="flex flex-col md:flex-wrap items-center p-2 hover:bg-gray-800 rounded">
           <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" class="w-12 p-2" alt="BTC">
-          <p>bc1qxhn8vcry7yq0q9gmt2cygnsxaav6xu3g9cm9hq</p>
+          <p class="hidden md:block">bc1qxhn8vcry7yq0q9gmt2cygnsxaav6xu3g9cm9hq</p>
         </a>
       </div>
 

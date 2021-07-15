@@ -2,6 +2,7 @@
   <div class="text-white">
     <Cover/>
     <About/>
+    <Projects/>
     <Posts/>
     <Footer/>
   </div>

@@ -1,5 +1,5 @@
 <template>
-  <section class="w-full bg-gray-700 text-white">
+  <section class="w-full bg-gray-800 text-white text-center">
     <div class="container mx-auto w-full p-4">
       <div class="w-full text-center">
         <h1>About Me</h1>

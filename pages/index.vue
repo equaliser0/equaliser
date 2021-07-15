@@ -17,11 +17,11 @@ export default Vue.extend({})
 <style>
 
 h1 {
-  @apply text-3xl p-2 m-2
+  @apply text-3xl p-2 m-2 font-bold
 }
 
 h2 {
-  @apply text-2xl p-2 m-2
+  @apply text-2xl p-2 m-2 font-bold
 }
 
 </style>

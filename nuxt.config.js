@@ -5,6 +5,9 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
+  server: {
+    host: '192.168.157.73'
+  },
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'equaliser',

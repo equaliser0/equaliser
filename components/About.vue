@@ -36,25 +36,25 @@
         </div>
         <div class="flex flex-wrap justify-around">
 
-          <div class="w-full md:w-1/5 m-2 p-4">
+          <div class="flex flex-wrap justify-around items-center w-full md:w-1/5 m-2 p-4">
             <img src="~/assets/imgs/decentralized.png" alt="">
             <h2>Decentralized Infrastructures</h2>
             <p>Scalable Democracy means fair and flexible economics</p>
           </div>
 
-          <div class="w-full md:w-1/5 m-2 p-4">
+          <div class="flex flex-wrap justify-around items-center w-full md:w-1/5 m-2 p-4">
             <img src="~/assets/imgs/organization.png" alt="">
             <h2>Autonomous Organizations</h2>
             <p>Once deployed people can focus on good jobs and being human</p>
           </div>
 
-          <div class="w-full md:w-1/5 m-2 p-4">
+          <div class="flex flex-wrap justify-around items-center w-full md:w-1/5 m-2 p-4">
             <img src="~/assets/imgs/redistributed.png" alt="">
             <h2>Redistributed Future</h2>
             <p>Thanks to the exchange rate and decentralized finance its possible to fight against poverty</p>
           </div>
 
-          <div class="w-full md:w-1/5 m-2 p-4">
+          <div class="flex flex-wrap justify-around items-center w-full md:w-1/5 m-2 p-4">
             <img src="~/assets/imgs/tokenized.png" alt="">
             <h2>Tokenized Resources</h2>
             <p>Digitized assets owned by entities means most effecient economics</p>

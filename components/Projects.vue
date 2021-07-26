@@ -7,6 +7,7 @@
 
       <div class="py-4 my-8">
         <div class="flex flex-wrap justify-center">
+
           <div class="w-full md:w-1/4 m-2 p-4 hover:bg-gray-700 rounded">
             <div class="flex flex-col justify-around items-center">
               <img src="~/assets/logos/enjine.png" class="w-32 rounded-full">
@@ -14,13 +15,15 @@
             </div>
             <p>Progressive Fullstack Application Framework for interoperable Progressive Web, Native and Server Applications</p>
           </div>
-          <div class="w-full md:w-1/4 m-2 p-4 hover:bg-gray-700 rounded">
+
+          <a class="w-full md:w-1/4 m-2 p-4 hover:bg-gray-700 rounded" href="http://ecosis.io" target="_blank">
             <div class="flex flex-col justify-around items-center">
               <img src="~/assets/logos/ecosis.png" class="w-32 rounded-full">
               <h2>ecosis</h2>
             </div>
             <p>Decentralized Autonomous Partnership Network</p>
-          </div>
+          </a>
+
         </div>
       </div>
 

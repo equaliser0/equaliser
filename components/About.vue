@@ -23,8 +23,8 @@
 
           <div class="flex flex-col items-center w-full md:w-1/4 m-2 p-4">
             <img src="~/assets/imgs/founder.png" alt="">
-            <h2>Founder</h2>
-            <p>Digging in the worlds todays issues for finding the worlds tomorrows solutions</p>
+            <h2>Multiplicator</h2>
+            <p>Always finding ways to multiplicate values</p>
           </div>
 
         </div>

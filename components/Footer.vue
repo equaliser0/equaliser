@@ -20,31 +20,31 @@
       </div>
 
       <div class="flex flex-wrap justify-around py-2 my-2">
-        <a href="https://www.linkedin.com/in/chris5000/" target="_blank" class="flex-1 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
+        <a href="https://www.linkedin.com/in/chris5000/" target="_blank" class="md:flex-1 w-1/4 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
           <img src="~/assets/logos/linkedin.png" alt="">
         </a>
 
-        <a href="https://leofinance.io/@equaliser" target="_blank" class="flex-1 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
+        <a href="https://leofinance.io/@equaliser" target="_blank" class="md:flex-1 w-1/4 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
           <img src="~/assets/logos/leofinance.png" alt="">
         </a>
 
-        <a href="https://soundcloud.com/equaliser" target="_blank" class="flex-1 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
+        <a href="https://soundcloud.com/equaliser" target="_blank" class="md:flex-1 w-1/4 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
           <img src="~/assets/logos/soundcloud.png" alt="">
         </a>
 
-        <a href="https://matrix.to/#/@equaliser:matrix.org" target="_blank" class="flex-1 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
+        <a href="https://matrix.to/#/@equaliser:matrix.org" target="_blank" class="md:flex-1 w-1/4 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
           <img src="~/assets/logos/matrix.png" alt="">
         </a>
 
-        <a href="https://discord.com/users/.equaliser.#9664" target="_blank" class="flex-1 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
+        <a href="https://discord.com/users/.equaliser.#9664" target="_blank" class="md:flex-1 w-1/4 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
           <img src="~/assets/logos/discord.png" alt="">
         </a>
 
-        <a href="https://twitter.com/_equaliser_" target="_blank" class="flex-1 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
+        <a href="https://twitter.com/_equaliser_" target="_blank" class="md:flex-1 w-1/4 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
           <img src="~/assets/logos/twitter.png" alt="">
         </a>
 
-        <a href="https://github.com/equaliser0" target="_blank" class="flex-1 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
+        <a href="https://github.com/equaliser0" target="_blank" class="md:flex-1 w-1/4 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
           <img src="~/assets/logos/github.png" alt="">
         </a>
       </div>

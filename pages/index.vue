@@ -24,4 +24,8 @@ h2 {
   @apply text-2xl p-2 m-2 font-bold
 }
 
+h3 {
+  @apply text-xl p-2 m-2 font-bold
+}
+
 </style>

@@ -24,6 +24,10 @@
           <img src="~/assets/logos/linkedin.png" alt="">
         </a>
 
+        <a href="https://leofinance.io/@equaliser" target="_blank" class="flex-1 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
+          <img src="~/assets/logos/leofinance.png" alt="">
+        </a>
+
         <a href="https://soundcloud.com/equaliser" target="_blank" class="flex-1 m-2 p-2 flex justify-around items-center hover:bg-gray-800 rounded">
           <img src="~/assets/logos/soundcloud.png" alt="">
         </a>
